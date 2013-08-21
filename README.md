@@ -1,4 +1,3 @@
 lombard
 =======
-
-lombard app
+How to build your own lombard app
